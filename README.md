@@ -5,3 +5,5 @@ Website for UA iGEM, a club I founded at the University of Arizona to compete in
 iGEM's website: https://competition.igem.org
 
 # Website made with TailwindCSS v4, JSX, and React (declarative setup with React Router & Vite setup), and Vercel for hosting 👾
+
+Click me! https://igem-site.vercel.app
